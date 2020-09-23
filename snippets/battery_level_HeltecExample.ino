@@ -1,6 +1,12 @@
 /*
  * From Heltech Example
  * https://github.com/HelTecAutomation/Heltec_ESP32/blob/master/examples/ESP32/ADC_Read_Voltage/Battery_power/Battery_power.ino
+ *
+ * and also this random guy
+ * https://github.com/3KUdelta/heltec_wifi_kit_32_batt_monitor/blob/master/Wifi_Kit_32_Batt_Watch.ino
+ *
+ * and also this dude from a forum
+ * http://community.heltec.cn/t/heltec-wifi-lora-v2-battery-management/147/35
  */
  
 #include <Arduino.h>
