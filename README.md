@@ -28,7 +28,6 @@
 |Heltec ESP32 - General|[github](https://github.com/HelTecAutomation/Heltec_ESP32)|
 |Heltec ESP32 - OLED API|[github](https://github.com/HelTecAutomation/Heltec_ESP32/blob/master/src/oled/API.md)|
 
-
 ## Power
 
   * Battery voltage is on `GPIO13` aka `ADC2_4`
