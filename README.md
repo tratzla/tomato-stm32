@@ -54,7 +54,7 @@ analogSetAttenuation(attenuation): sets the input attenuation for all ADC pins. 
 
 |General|  |
 |---|---|
-|XPM online Converter|[image2cpp](http://javl.github.io/image2cpp/)|
+|XPM online Converter|[convert to XBM](https://www.online-utility.org/image/convert/to/XBM)|
 |Heltec Generic Docs|[heltec-automation-docs.readthedocs.io](https://heltec-automation-docs.readthedocs.io/en/latest/esp32+arduino/index.html)|
 |Heltec Forums|[community.heltec.cn](http://community.heltec.cn/)|
 |Espressif ESP 32|[CPU]([Espressif Docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/index.html)|
